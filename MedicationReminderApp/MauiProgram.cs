@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using Plugin.LocalNotification;
+using Microsoft.Extensions.Logging;
 
 namespace MedicationReminderApp
 {
